@@ -2,7 +2,7 @@
 
 <div align="center">
   &middot;
-  <i>Next Portfolio built in Next.js + TypeScript + Tailwind CSS + Firebase</i>
+  <i>Next Portfolio built in Next.js + TypeScript +  CSS + Firebase</i>
   &middot;
   <br/>
   <br/>
